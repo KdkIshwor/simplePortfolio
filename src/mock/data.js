@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.PNG',
     title: 'Crwn-Clothing',
-    info: '',
+    info: 'An ecommerce web app demo for clothing and footwears. Secured with user authentication and stripe payment methods.',
     info2: '',
     url: '',
     repo: 'https://github.com/KdkIshwor/crwn-clothing', // if no repo, the button will not show up
@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project1.PNG',
     title: 'Nepalese Heart Photography',
-    info: '',
+    info: 'A wedding planner website where you can find best packages for wedding photography and videography.',
     info2: '',
     url: 'https://nepaleseheartphotography.netlify.app/',
     repo: 'https://github.com/KdkIshwor/nepaleseHeartPhotography', // if no repo, the button will not show up
@@ -48,7 +48,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project2.PNG',
     title: 'Blogging in Nepal',
-    info: '',
+    info: 'Blogging In Nepal is a group of Blogger in Nepal who want to be blogger in comming days writing their best stories.',
     info2: '',
     url: 'https://blogging-in-nepal.netlify.app/',
     repo: 'https://github.com/KdkIshwor/bloggingWebsite', // if no repo, the button will not show up
@@ -57,7 +57,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project-4.PNG',
     title: 'Yelpcamp',
-    info: '',
+    info: 'A website where you can find and upload the campgrounds across the world.',
     info2: '',
     url: 'https://afternoon-forest-17255.herokuapp.com/campgrounds',
     repo: 'https://github.com/KdkIshwor/YelpCamp-', // if no repo, the button will not show up
@@ -77,12 +77,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
+      url: 'https://twitter.com/IshworK10581503',
     },
     {
       id: nanoid(),
@@ -92,7 +87,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/KdkIshwor',
     },
   ],
 };
